@@ -1,8 +1,3 @@
-Hello :)
-To access the source code you will either find it attached to the blackboard assignment itself or in github using this link under the main branch: 
-Please make sure that you have signed into your github account inorder to be able to open the link :)
-https://github.com/johnelgallab/QM_Project
--------------------------------------------------------------------------------------------------
 to build the program please add the file called final_main.cpp to a solution in either visual studio or xcode in order to build and run it.
 make sure to add your inputs with a file called "input.txt" which is saved under the same directory as the final_main.cpp
 data inside the input.txt file must follow the same format as the assignment sheet.
